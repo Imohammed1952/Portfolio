@@ -1,8 +1,6 @@
 #ifndef VEC3_H
 #define VEC3_H
 
-#include <cmath>
-#include <iostream>
 
 // vec3 class represents a 3D vector or point in space
 class vec3 {
