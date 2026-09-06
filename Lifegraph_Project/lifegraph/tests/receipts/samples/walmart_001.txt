@@ -1,0 +1,13 @@
+WALMART SUPERCENTER #1234
+
+08/24/2026
+
+MILK              $3.49
+BREAD             $2.99
+EGGS              $4.29
+
+SUBTOTAL          $10.77
+TAX                $0.86
+TOTAL             $11.63
+
+VISA ****1234

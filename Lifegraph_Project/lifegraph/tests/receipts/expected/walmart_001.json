@@ -1,0 +1,27 @@
+{
+  "merchant": "WALMART SUPERCENTER #1234",
+  "transaction_date": "2026-08-24",
+  "subtotal_cents": 1077,
+  "tax_cents": 86,
+  "total_cents": 1163,
+  "currency": "USD",
+  "payment_method": "VISA",
+  "payment_last_four": "1234",
+  "items": [
+    {
+      "description": "MILK",
+      "quantity": null,
+      "total_cents": 349
+    },
+    {
+      "description": "BREAD",
+      "quantity": null,
+      "total_cents": 299
+    },
+    {
+      "description": "EGGS",
+      "quantity": null,
+      "total_cents": 429
+    }
+  ]
+}
