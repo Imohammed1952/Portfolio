@@ -1,0 +1,19 @@
+*.ipch
+*.ANSWER
+*.obj
+*.exe
+*.pdb
+*.log
+*.sdf
+*.user
+.vs/
+Debug/
+Release/
+__pycache__/
+*.pyc
+
+# Active Learning Raman Spectra - local data/archive
+Active_Learning_VAE_Raman_Spectra/Data/
+Active_Learning_VAE_Raman_Spectra/Archive/
+
+SAM_Glass_Detection/train/
